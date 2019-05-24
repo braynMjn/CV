@@ -1,0 +1,30 @@
+body {
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  background: url(cloud.jpg);
+  background-size: 2500px 1500px;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+}
+
+h1 {
+  color:white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+h2 {
+  color:steelblue;
+  border-style: solid;
+  border-color:slateblue    ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+} 
+
+img{
+    height:165px;
+    width:150px;
+    border-radius: 25%;
+    border: 7px solid whitesmoke;
+    border-radius: 4px;
+}
+
